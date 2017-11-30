@@ -53,7 +53,8 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #            a render method draws the objects
 #
 #     g. When is a RoseWindow close_on_mouse_click method call necessary?  Why?
-#            WRITE TOMMOrrow
+#            It is necessary if you want the window to stay open after the
+# function has been completed, so that you can see the finished function.
 #
 #   ASK QUESTIONS ** NOW ** if you do not understand how the
 #     RoseGraphics graphics system works.
